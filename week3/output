@@ -1,3 +1,4 @@
+Question 1
 Displaying all departments:
 101, HR, 1995, Alice Johnson, 50
 102, Engineering, 2005, Bob Smith, 200
@@ -15,3 +16,41 @@ Enter Head Name: Emma WHite
 Enter Number of Employees: 100
 Department inserted:
 105, Sales, 2020, Emma WHite, 100
+
+**
+
+Queston 2
+All Subjects:
+Code: CSL56, Name: Advanced Java Programming Lab, Department: Computer Sci, Credits: 4
+Code: CSL57, Name: Data Structures, Department: Computer Sci, Credits: 3
+Code: CSL58, Name: Computer Networks, Department: Computer Sci, Credits: 4
+Code: CSL59, Name: Operating Systems, Department: Computer Sci, Credits: 4
+
+**
+
+Question 3
+All Movies:
+ID: 1, Movie Name: The Matrix, Genre: Sci-Fi, IMDB Rating: 8.7, Year: 1999
+ID: 2, Movie Name: The Dark Knight, Genre: Action, IMDB Rating: 9.0, Year: 2008
+ID: 3, Movie Name: Inception, Genre: Sci-Fi, IMDB Rating: 8.8, Year: 2010
+ID: 4, Movie Name: Interstellar, Genre: Sci-Fi, IMDB Rating: 8.6, Year: 2014
+ID: 5, Movie Name: The Godfather, Genre: Crime, IMDB Rating: 9.2, Year: 1972
+
+5th Movie:
+ID: 5, Movie Name: The Godfather, Genre: Crime, IMDB Rating: 9.2, Year: 1972
+
+Enter Movie ID: 6
+Enter Movie Name: The Shawshank Redemption
+Enter Genre: Drama
+Enter IMDB Rating: 9.3
+Enter Year: 1994
+
+New movie inserted successfully.
+
+Updated List of Movies:
+ID: 1, Movie Name: The Matrix, Genre: Sci-Fi, IMDB Rating: 8.7, Year: 1999
+ID: 2, Movie Name: The Dark Knight, Genre: Action, IMDB Rating: 9.0, Year: 2008
+ID: 3, Movie Name: Inception, Genre: Sci-Fi, IMDB Rating: 8.8, Year: 2010
+ID: 4, Movie Name: Interstellar, Genre: Sci-Fi, IMDB Rating: 8.6, Year: 2014
+ID: 5, Movie Name: The Godfather, Genre: Crime, IMDB Rating: 9.2, Year: 1972
+ID: 6, Movie Name: The Shawshank Redemption, Genre: Drama, IMDB Rating: 9.3, Year: 1994
