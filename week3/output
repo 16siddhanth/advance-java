@@ -1,0 +1,17 @@
+Displaying all departments:
+101, HR, 1995, Alice Johnson, 50
+102, Engineering, 2005, Bob Smith, 200
+103, Marketing, 2010, Charlie Brown, 70
+104, Finance, 2000, David Williams, 30
+Enter year to filter departments: 2000
+104, Finance, 2000, David Williams, 30
+Enter Dept_ID: 102
+Enter Dept Name: Engineering
+102, Engineering, 2005, Bob Smith, 200
+Enter Dept_ID: 105
+Enter Name: Sales
+Enter Year Established: 2020
+Enter Head Name: Emma WHite
+Enter Number of Employees: 100
+Department inserted:
+105, Sales, 2020, Emma WHite, 100
