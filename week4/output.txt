@@ -32,15 +32,6 @@ Account No: 1, Name: a, Type: sav, Balance: 230000.0
 Account No: 2, Name: b, Type: fd, Balance: 330000.0
 Account No: 3, Name: c, Type: sav, Balance: 45000.0
 Account No: 4, Name: d, Type: rd, Balance: 250000.0
-Account No: 5, Name: e, Type: sav, Balance: 100000.0
-Account No: 6, Name: f, Type: sav, Balance: 4500000.0
-Account No: 101, Name: Alice, Type: Savings, Balance: 5000.75
-Account No: 102, Name: Bob, Type: Checking, Balance: 10000.5
-Account No: 103, Name: Charlie, Type: Savings, Balance: 3000.25
-Account No: 104, Name: Dave, Type: Current, Balance: -1500.0
-Account No: 105, Name: Eve, Type: Savings, Balance: 12000.0
-Account No: 106, Name: Frank, Type: Checking, Balance: 6000.0
-Account No: 107, Name: Grace, Type: Checking, Balance: 0.0
 
 Demonstrating Rollback and Commit...
 Transaction rolled back due to error: Duplicate entry '104' for key 'PRIMARY'
@@ -53,12 +44,3 @@ Account No: 1, Name: a, Type: sav, Balance: 230000.0
 Account No: 2, Name: b, Type: fd, Balance: 330000.0
 Account No: 3, Name: c, Type: sav, Balance: 45000.0
 Account No: 4, Name: d, Type: rd, Balance: 250000.0
-Account No: 5, Name: e, Type: sav, Balance: 100000.0
-Account No: 6, Name: f, Type: sav, Balance: 4500000.0
-Account No: 101, Name: Alice, Type: Savings, Balance: 5000.75
-Account No: 102, Name: Bob, Type: Checking, Balance: 10000.5
-Account No: 103, Name: Charlie, Type: Savings, Balance: 3000.25
-Account No: 104, Name: Dave, Type: Current, Balance: -1500.0
-Account No: 105, Name: Eve, Type: Savings, Balance: 12000.0
-Account No: 106, Name: Frank, Type: Checking, Balance: 6000.0
-Account No: 107, Name: Grace, Type: Checking, Balance: 0.0
