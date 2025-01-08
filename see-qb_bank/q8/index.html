@@ -1,27 +1,44 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Simple Calculator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Display</title>
 </head>
 <body>
-    <h2>Simple Calculator</h2>
-    <form action="CalculatorServlet" method="POST">
-        <label for="num1">First Number: </label>
-        <input type="text" id="num1" name="num1" required><br><br>
 
-        <label for="num2">Second Number: </label>
-        <input type="text" id="num2" name="num2" required><br><br>
+    <h1>Cookie Display from Java Servlet</h1>
 
-        <label for="operation">Operation: </label>
-        <select id="operation" name="operation" required>
-            <option value="add">Add</option>
-            <option value="sub">Subtract</option>
-            <option value="mul">Multiply</option>
-            <option value="divide">Divide</option>
-            <option value="e^x">e^x</option>
-        </select><br><br>
+    <p>This page shows cookies that are set by the Java servlet. Refresh the page to see the remaining cookies after some have expired.</p>
 
-        <input type="submit" value="Calculate">
-    </form>
+    <h2>Cookies:</h2>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Cookie Name</th>
+                <th>Cookie Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>cookie1</td>
+                <td>FirstCookie</td>
+            </tr>
+            <tr>
+                <td>cookie2</td>
+                <td>SecondCookie</td>
+            </tr>
+            <tr>
+                <td>cookie3</td>
+                <td>ThirdCookie</td>
+            </tr>
+            <tr>
+                <td>cookie4</td>
+                <td>FourthCookie</td>
+            </tr>
+        </tbody>
+    </table>
+
 </body>
 </html>
